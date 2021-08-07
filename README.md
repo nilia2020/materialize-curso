@@ -1,2 +1,3 @@
 # materialize-curso
-Blog creado cuando materialize
+Blog creado utilizando materialize
+Curso de Platzi
