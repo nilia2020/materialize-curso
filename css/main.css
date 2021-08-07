@@ -54,3 +54,24 @@ footer.page-footer {
     background: grey;
     bottom: 0;
 }
+
+/* Post.html */
+
+.post-pic {
+    width: 100%;
+    height: 400px;
+    background-image: url("https://picsum.photos/1000/400");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* registro.html */
+
+.registro-titulo {
+    margin-top: 80px;
+}
+
+.header-height {
+    height: 400px;
+}
